@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Shengkai Zhang will receive his Ph.D. degree from the [EIC Department](http://ei.hust.edu.cn/), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn) this winter. His advisor is [Prof. Tao Jiang](http://ei.hust.edu.cn/lab/SINC-lab/CN/jiangtao.html). He received his M.Sc and M.Phil degrees from HUST and Hong Kong University of Science and Technology [(HKUST)](https://www.ust.hk) in 2012 and 2015, respectively.
+Shengkai Zhang will receive his Ph.D. degree from the [EIC Department](http://ei.hust.edu.cn/), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn) this winter. His advisor is [Prof. Tao Jiang](https://scholar.google.com/citations?user=9BEmtIwAAAAJ&hl=en). He received his M.Sc and M.Phil degrees from HUST and Hong Kong University of Science and Technology [(HKUST)](https://www.ust.hk) in 2012 and 2015, respectively.
