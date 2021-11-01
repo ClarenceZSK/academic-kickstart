@@ -50,9 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
+- National Scholarship for Postgraduates, 2020
 - First Prize of Future Aircraft Competition in HUST, 2019
 - Graduates' Innovation Fund of HUST, 2019
-- HUST Ph.D. Fellowship, 2017
+- HUST Ph.D. Fellowship, 2017 - 2021
 - Student Scholarships, ICC, London, 2015
-- HKUST Fellowship, 2012
-- HUST Fellowship, 2009
+- HKUST Fellowship, 2012 - 2014
+- HUST Fellowship, 2009 - 2012

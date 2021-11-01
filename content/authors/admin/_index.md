@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Huazhong University of Science and Technology
-  url: "https://www.hust.edu.cn"
+- name: Wuhan University of Technology
+  url: "https://www.whut.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include aerial robotics, wireless sensing, state estimation, and SLAM.
@@ -63,7 +63,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "szhangk@hust.edu.cn"
+email: "shengkai@whut.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Shengkai Zhang will receive his Ph.D. degree from the [EIC Department](http://ei.hust.edu.cn/), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn) this winter. His advisor is [Prof. Tao Jiang](https://scholar.google.com/citations?user=9BEmtIwAAAAJ&hl=en). He received his M.Sc and M.Phil degrees from HUST and Hong Kong University of Science and Technology [(HKUST)](https://www.ust.hk) in 2012 and 2015, respectively.
+Shengkai Zhang (张胜凯) joined Wuhan University of Technology (WHUT) in 2021 after receiving his Ph.D. degree from the [EIC Department](http://ei.hust.edu.cn/), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn) this winter. His advisor is [Prof. Tao Jiang](https://scholar.google.com/citations?user=9BEmtIwAAAAJ&hl=en). He received his M.Sc and M.Phil degrees from HUST and Hong Kong University of Science and Technology [(HKUST)](https://www.ust.hk) in 2012 and 2014, respectively. From 2015 to 2016, he joined HKUST-DJI Joint Innovation Laboratory [(HDJI Lab)](http://uav.ust.hk/) as a research assistant.

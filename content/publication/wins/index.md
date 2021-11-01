@@ -39,7 +39,7 @@ url_poster: https://techxplore.com/news/2020-03-indoor-mav-pose-leverages-wi-fi.
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: files/demo.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
