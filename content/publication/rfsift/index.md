@@ -25,7 +25,7 @@ publication_short: In ICRA 2021
 # abstract: The advances in compact and agile micro aerial vehicles (MAVs) have shown great potential in replacing humans for labor-intensive or dangerous indoor investigation, such as warehouse management and fire rescue. However, the design of a state estimation system that enables autonomous flight in such dim or smoky environments presents a conundrum:.
 
 # Summary. An optional shortened abstract.
-summary: In International Conference on Robotics and Automation (ICRA) 2020
+summary: In International Conference on Robotics and Automation (ICRA) 2021
 
 # tags:
 # - Source Themes
