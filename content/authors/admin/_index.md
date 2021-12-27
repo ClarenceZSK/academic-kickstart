@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Shengkai Zhang (张胜凯) joined Wuhan University of Technology (WHUT) in 2021 after receiving his Ph.D. degree from the [EIC Department](http://ei.hust.edu.cn/), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn). He received his M.Sc and M.Phil degrees from HUST and Hong Kong University of Science and Technology [(HKUST)](https://www.ust.hk) in 2012 and 2014, respectively. From 2015 to 2016, he joined HKUST-DJI Joint Innovation Laboratory [(HDJI Lab)](http://uav.ust.hk/) as a research assistant.
+Shengkai Zhang (张胜凯) joined Wuhan University of Technology (WUT) in 2021 after receiving his Ph.D. degree from the [EIC Department](http://ei.hust.edu.cn/), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn). He received his M.Sc and M.Phil degrees from HUST and Hong Kong University of Science and Technology [(HKUST)](https://www.ust.hk) in 2012 and 2014, respectively. From 2015 to 2016, he joined HKUST-DJI Joint Innovation Laboratory [(HDJI Lab)](http://uav.ust.hk/) as a research assistant.
