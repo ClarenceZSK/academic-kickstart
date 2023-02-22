@@ -1,6 +1,6 @@
 ---
 title: UWB NLOS Identification
-summary: It is well known that the ultrawide-band raning in non-line-of-sight (NLOS) propagation is biased due to that the diiferent propagation speed of RF signals when going through other materials. Therefore, identifying the ranging results in NLOS conditions is siginificant in improving the robustness of UWB localization.
+summary: It is well known that the ultrawide-band raning in non-line-of-sight (NLOS) propagation is biased due to that the diiferent propagation speed when going through other materials. Identifying the ranging results in NLOS conditions is siginificant in improving the robustness of UWB localization.
 tags:
 - Ultrawide-band, localization, NLOS
 date: "2021-11-01T00:00:00Z"

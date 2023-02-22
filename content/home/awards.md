@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- Best Paper Award in Chinese Institute of Electronics to Rover (TWC 2020)
+- First Class of Huawei Scholarship, 2020
 - National Scholarship for Postgraduates, 2020
 - First Prize of Future Aircraft Competition in HUST, 2019
 - Graduates' Innovation Fund of HUST, 2019
