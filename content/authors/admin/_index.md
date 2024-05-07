@@ -18,14 +18,13 @@ organizations:
   url: "https://www.whut.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include aerial robotics, wireless sensing, state estimation, and SLAM.
+bio: My research interests include robotics, wireless sensing, Gaussian splatting, and SLAM.
 
 interests:
 - Aerial Robotics
 - Wireless Sensing
-- State Estimation
+- Gaussian Splatting
 - SLAM
-- Mobile Computing
 
 #education:
 #  courses:
@@ -60,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv2024.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "shengkai@whut.edu.cn"
@@ -72,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Shengkai Zhang (张胜凯) joined Wuhan University of Technology (WUT) in 2021 after receiving his Ph.D. degree from the [EIC Department](http://ei.hust.edu.cn/), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn). He received his M.Sc and M.Phil degrees from HUST and Hong Kong University of Science and Technology [(HKUST)](https://www.ust.hk) in 2012 and 2014, respectively. From 2015 to 2016, he joined HKUST-DJI Joint Innovation Laboratory [(HDJI Lab)](http://uav.ust.hk/) as a research assistant.
+Shengkai Zhang (张胜凯) joined [School of Information Engineering](http://wutinfo.whut.edu.cn/), Wuhan University of Technology [(WUT)](https://www.whut.edu.cn/) in 2021 after receiving his Ph.D. degree from the [EIC Department](http://ei.hust.edu.cn/), Huazhong University of Science and Technology [(HUST)](https://www.hust.edu.cn). His supervisors are [Prof. Wei Wang](https://eic.hust.edu.cn/professor/wangwei/index.html) and [Prof. Hongbo Jiang](http://csee.hnu.edu.cn/people/jianghongbo). He received his M.Sc and M.Phil degrees from HUST and Hong Kong University of Science and Technology [(HKUST)](https://www.ust.hk) in 2012 and 2014, respectively. From 2015 to 2016, he joined HKUST-DJI Joint Innovation Laboratory [(HDJI Lab)](http://uav.ust.hk/) as a research assistant.

@@ -50,5 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-- **2019 - Present**: IEEE China Communications, International Journal of Communication Systems, Special Issue "Advances in Infrastructure Mobility for Future Networks" in Wireless Communications and Mobile Computing, ACM/Springer Journal of Wireless Networks
+- **2024**: IEEE ICRA, IEEE IROS, IEEE Transactions on Mobile Computing
+- **2019 - 2023**: IEEE China Communications, International Journal of Communication Systems, Special Issue "Advances in Infrastructure Mobility for Future Networks" in Wireless Communications and Mobile Computing, ACM/Springer Journal of Wireless Networks
 - **2018**: International Journal of Communication Systems, ACM/Springer Journal of Wireless Networks
