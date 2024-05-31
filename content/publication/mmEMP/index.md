@@ -36,7 +36,7 @@ summary: In International Conference on Robotics and Automation (ICRA) 2024
 #- name: Custom Link
 #  url: http://example.org
 url_pdf: files/mmemp.pdf
-url_code: 'https://github.com/bella-jy/mmEMP/tree/main'
+url_code: 'https://github.com/ClarenceZSK/mmEMP'
 url_dataset: ''
 url_poster: ''
 url_project: ''
